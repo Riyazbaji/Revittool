@@ -1,0 +1,10 @@
+Input,Type,Result
+google.com,Forward,142.250.77.110;2404:6800:4007:831:0:0:0:200e | Cloud: Google Cloud
+yahoo.com,Forward,74.6.143.25;74.6.143.26;74.6.231.20;74.6.231.21;98.137.11.163;98.137.11.164;2001:4998:44:3507:0:0:0:8001;2001:4998:24:120d:0:0:1:0;2001:4998:24:120d:0:0:1:1;2001:4998:44:3507:0:0:0:8000;2001:4998:124:1507:0:0:0:f001;2001:4998:124:1507:0:0:0:f000 | Cloud: Unknown
+microsoft.com,Forward,13.107.246.48;2603:1030:b:3:0:0:0:152;2603:1030:20e:3:0:0:0:23c;2603:1030:c02:8:0:0:0:14;2603:1020:201:10:0:0:0:10f;2603:1010:3:3:0:0:0:5b | Cloud: Unknown
+github.com,Forward,20.207.73.82 | Cloud: Unknown
+8.8.8.8,Reverse,dns.google | Cloud: Google Cloud
+142.250.77.110,Reverse,pnmaaa-aq-in-f14.1e100.net | Cloud: Google Cloud
+192.168.1.1,Reverse,No reverse DNS found for 192.168.1.1
+2404:6800:4007:808:0:0:0:200e,Forward,2404:6800:4007:808:0:0:0:200e | Cloud: Google Cloud
+2606:2800:220:1:248:1893:25c8:1946,Forward,2606:2800:220:1:248:1893:25c8:1946 | Cloud: Unknown
