@@ -137,4 +137,6 @@ The new full-scan engine (`RevittoolFull`) is an **upgrade**, but you can still 
 ### 1. Compile
 
 ```bash
-javac RevittoolFull.java
+javac RevittoolFull.java - .class Files
+cd scanner - open the scanner folder
+java ScanServer - scan server
